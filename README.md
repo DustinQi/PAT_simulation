@@ -6,4 +6,4 @@
 4. 得到测量矩阵和真实探测器数据.
 5. 传统迭代重建(lsqr, l1_ls)和稀疏重建(yall1, yall1_group).
 
-简单成果见EMBC会议文章： Three-dimensional Photoacoustic Reconstruction using Weighted YALL1 Method.
+3D稀疏重建结果展示可见EMBC会议文章《Three-dimensional Photoacoustic Reconstruction using Weighted YALL1 Method》
